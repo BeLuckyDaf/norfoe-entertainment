@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Norfoe Entertainment</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Norfoe Entertainment</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2020 Norfoe Entertainment, All Rights Reserved.</copyright>
+    <lastBuildDate>Tue, 29 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>announcement</title>
+      <link>/tags/announcement/</link>
+      <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/announcement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>norfoe</title>
+      <link>/tags/norfoe/</link>
+      <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/norfoe/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

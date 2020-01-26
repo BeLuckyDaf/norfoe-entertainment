@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Norfoe Entertainment</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on Norfoe Entertainment</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2020 Norfoe Entertainment, All Rights Reserved.</copyright>
+    <lastBuildDate>Tue, 29 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First Post (Norfoe)</title>
+      <link>/posts/my-first-post/</link>
+      <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/my-first-post/</guid>
+      <description>Hello! We have never been so close to having more games in our portfolio!</description>
+    </item>
+    
+  </channel>
+</rss>
