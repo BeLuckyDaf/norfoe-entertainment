@@ -2,7 +2,7 @@
 title = "Announcement -- Global Game Jam 2020"
 date = "2020-01-26"
 author = "Vladislav Smirnov"
-cover = ""
+cover = "/img/norfoe-logo.png"
 tags = ["norfoe", "announcement"]
 keywords = ["norfoe"]
 description = ""

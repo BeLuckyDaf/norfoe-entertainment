@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://www.norfoe.club/"
 languageCode = "en-us"
 theme = "terminal"
 paginate = 5
