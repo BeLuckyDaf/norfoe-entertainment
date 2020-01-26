@@ -1,6 +1,6 @@
 +++
 title = "Announcement -- Global Game Jam 2020"
-date = "2019-01-29"
+date = "2020-01-29"
 author = "Vladislav Smirnov"
 cover = ""
 tags = ["norfoe", "announcement"]
