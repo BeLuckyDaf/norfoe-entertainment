@@ -5,7 +5,9 @@ author = "Vladislav Smirnov"
 cover = "/img/norfoe-logo.png"
 tags = ["norfoe", "announcement"]
 keywords = ["norfoe"]
-description = ""
+description = """We are merely a couple of students from Russia, striving in the industry,
+trying to deliver something to the world of game development, and we are
+finally very close on our way of publishing a game."""
 showFullContent = false
 +++
 
@@ -20,7 +22,7 @@ website of the game, located at <https://www.spacebattle.online>.
 
 # Space Battle Online
 
-It is the game! You will be playing as a space ship among many other
+The game is out! You will be playing as a space ship among many other
 players, trying to survive in this Sci-Fi cosmic world.
 
 I won't spoil it for you. Just wait for it, it's coming very soon ;)

@@ -1,11 +1,11 @@
 +++
 title = "Space Battle -- Devlog #1"
-date = "2020-02-06"
+date = "2020-05-12"
 author = "Vladislav Smirnov"
 cover = "/img/SpaceBattleDevlog1.png"
 tags = ["norfoe", "devlog", "spacebattle"]
 keywords = ["norfoe", "devlog", "spacebattle"]
-description = ""
+description = "We have been busy! It has been so long since the last post..."
 showFullContent = false
 +++
 
@@ -16,7 +16,7 @@ and effort has been put into Space Battle's ongoing development. We want to make
 we release won't be a one-day check out and move on kind of game.
 
 Almost all forces were sent to fight the demons of networking, we tried several solutions for
-game backend and after a few unsuccessful attempts, decided to stay with [HeroicLabs' Nakama](https://heroiclabs.com).
+the game backend and after a few unsuccessful attempts, we decided to stay with [HeroicLabs' Nakama](https://heroiclabs.com).
 These guys are doing an awesome job, and we couldn't leave them uncredited.
 
 # Track Us!

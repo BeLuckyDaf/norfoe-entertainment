@@ -1,11 +1,11 @@
 +++
-title = "Space Battle -- Open Source"
+title = "Space Battle Online -- Open Source"
 date = "2020-02-06"
 author = "Vladislav Smirnov"
 cover = "/img/github.png"
 tags = ["norfoe", "announcement", "spacebattle"]
 keywords = ["norfoe"]
-description = ""
+description = "If you think you want to try something of your own in our game, go get it!"
 showFullContent = false
 +++
 
