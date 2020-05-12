@@ -45,6 +45,10 @@ paginate = 5
       logoHomeLink = "/"
 
     [languages.en.menu]
+	  [[languages.en.menu.main]]
+        identifier = "forum"
+        name = "Forum"
+        url = "https://forum.norfoe.com"
       [[languages.en.menu.main]]
         identifier = "about"
         name = "About"
